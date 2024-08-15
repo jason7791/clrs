@@ -4,7 +4,7 @@
 *.so
 build/
 dist/
-venv/
+clrs_env/
 
 # Mac OS
 .DS_Store
